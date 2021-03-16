@@ -17,7 +17,7 @@
 
 To properly enjoy this list, you'll need to do a little grocery shopping:
 
-- A clean, LEGAL installation of Skyrim Special Edition. I don't tolorate piracy.
+- A clean, LEGAL installation of Skyrim Special Edition. I don't tolerate piracy.
 - The Wabbajack program itself, available from https://www.wabbajack.org/#/.
 - AT LEAST an additional 150GB of free space. Enough for the list with some room to spare.
 - (Optional) A firm understand of Theoretical Physics and at least one degree in Astronomy
@@ -25,9 +25,9 @@ To properly enjoy this list, you'll need to do a little grocery shopping:
 
 ## Installation
 
-First off, clear any existing Skyrim Special Edition installs you might have. Do this by manually going into the installtion folder (i.e. steamapps/common/Skyrim Special Edition), select everything within it, and hit Delete. 
+First off, clear any existing Skyrim Special Edition installs you might have. Do this by manually going into the installation folder (i.e. steamapps/common/Skyrim Special Edition), select everything within it, and hit Delete. 
 
-Next up, right-click on the game within your steam liberary, and go to Properties, then Local Files, then Verify integrity of game files. This will install a totally clean copy of Skyrim, free of any trace of previous modding. 
+Next up, right-click on the game within your steam library, and go to Properties, then Local Files, then Verify integrity of game files. This will install a totally clean copy of Skyrim, free of any trace of previous modding. 
 
 While this downloads, go to Documents/My Games/, and delete the Skyrim Special Edition folder found there. We want to generate fresh INI files upon first launch.
 
@@ -44,7 +44,7 @@ Once the list is ready to install, you will be presented with a screen asking yo
 Once you've decided where to install the list and where the downloads go, simply click the green Play arrow, and Wabbajack will take care of the rest. (if you don't have Nexus Premium, be advised that you will need to MANUALLY tell WJ to download the archives, which you will be guided through.)
 
 
-## Finalzing your installation and first launch
+## Finalizing your installation and first launch
 
 Once Wabbajack informs you that your installation is complete, you may close it, and go to your earlier-designated installation location for I Can Hear You Shouting.
 
@@ -63,9 +63,11 @@ Cathedral Weathers - Uncheck Configuration Spell (redundant when you can access 
 
 Immersive HUD - Check "Link ALL SkyUI Widgets" and "Key press toggles".
 
-moreHUD (Enemy's Level tab) - Uncheck "Show Magicka Meter" and "Show Stamina Meter"
+moreHUD (Enemy's Level tab) - Uncheck "Show Magicka Meter" and "Show Stamina Meter".
 
 Realistic Water Two - Under Mod Options » Blacksmith Forge Water, check "Kynesgrove" and "Rorikstead"
+
+Storm Lightning (Settings tab) - Set minimum fork distance to 1 (unless you enjoy being struck by lightning
 
 Timing Is Everything (Extra Options tab) - Click "Load Preset". Follow on-screen prompts until settings are fully loaded.
 
@@ -74,7 +76,7 @@ Trade & Barter - Under Barter Rates » Settings, check the Modify Barter Setting
 Wonders of Weather - Under Rainsplashes, set Level to Disabled to turn the effect off. (Totally Optional)
 
 
-### Thank Yous
+### Thank You section
 
 - Phoenix for her amazing Phoenix Flavour guide, which formed the base of my modlist, and it's perfect MCM settings.
 - Halgari and the Wabbajack Crew for Wabbajack itself. I wouldn't be where I am without you guys.
